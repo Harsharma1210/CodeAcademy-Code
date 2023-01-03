@@ -1,3 +1,3 @@
 # CodeAcademy-Code
 
-#This Repositroy contains all of my project code from CodeAcademy.com
+#This Repository contains all of my project code from CodeAcademy.com
